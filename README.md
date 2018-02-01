@@ -17,7 +17,7 @@ php Test.php
 
 Or you can test with directly through this URL:
 
-[Test URL](http://firassleibi.com/CardSorter/test.php)
+[Test URL](http://firassleibi.com/CardSorter/Test.php)
 
 ### Including the CardSorter Library
 
